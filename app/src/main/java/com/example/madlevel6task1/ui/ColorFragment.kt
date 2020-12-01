@@ -1,4 +1,4 @@
-package com.example.madlevel6task1
+package com.example.madlevel6task1.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -9,6 +9,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.madlevel6task1.R
 import com.example.madlevel6task1.model.ColorItem
 import com.example.madlevel6task1.viewmodel.ColorViewModel
 import com.google.android.material.snackbar.Snackbar
